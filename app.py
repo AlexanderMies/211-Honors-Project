@@ -1,3 +1,7 @@
+#Alexander Mies
+#CSC 211H w/ Dr. Ahzar
+#5/19/2021
+
 from os import system
 import requests as req
 from bs4 import BeautifulSoup
